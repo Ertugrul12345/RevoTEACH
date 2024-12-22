@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **Learning Adventure App** is an educational application designed to engage users in interactive learning sessions across various subjects such as Math 1, Math 2, Math 3, and Precalculus. The app dynamically adjusts questions based on user performance, implements a leveling system, and features a chatbot for additional interaction.
+The **RevoTEACH App** is an educational application that is designed to teach students various subjects such as Math 1, Math 2, Math 3, and Precalculus. Our app adjusts questions based on the users performance, has a leveling system, and has a chatgpt powered chatbot to assist struggling users.
 
 ---
 
@@ -11,9 +11,8 @@ The **Learning Adventure App** is an educational application designed to engage 
 
 - **Dynamic Question Loading**: Questions adjust based on the selected subject and difficulty level.
 - **Leveling System**: Users level up every 5 correct answers, encouraging continued progress.
-- **Navigation**: Switch between subjects (Math 1, Math 2, Math 3, Precalculus) seamlessly.
-- **Chatbot**: Built-in AI chatbot for user queries and assistance.
-- **Dark Mode UI**: User-friendly dark theme with a modern design.
+- **Navigation**: Allows users to switch between subjects (Math 1, Math 2, Math 3, Precalculus).
+- **Chatbot**: Built-in chatgpt powered chatbot providing struggling users with assistance.
 
 ---
 
@@ -34,17 +33,9 @@ The **Learning Adventure App** is an educational application designed to engage 
 ## File Structure
 
 - `main.py`: The main application file.
-- `questions.json`: A JSON file containing subject-specific questions.
-- `chatbot.py`: Handles chatbot responses.
+- `questions.json`: file containing the questions.
+- `chatbot.py`: chatgpt powered chatbot which helps users that are stuck.
 - `ml_model.py`: Contains the machine learning model for predicting user performance.
-
----
-
-## Future Improvements
-
-- Additional subjects and topics.
-- User progress tracking with a database.
-- Advanced chatbot integration with OpenAI's GPT.
 
 ---
 
@@ -56,4 +47,4 @@ This project is open-source and available under the MIT License.
 
 ## Contact
 
-For feedback or questions, feel free to reach out via [email@example.com](mailto:email@example.com).
+For feedback or questions, feel free to reach out via [ertugrul.findik1@gmail.com](mailto:ertugrul.findik1@gmail.com).
