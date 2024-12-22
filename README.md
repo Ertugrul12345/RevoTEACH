@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **RevoTEACH App** is an educational application that is designed to teach students various subjects such as Math 1, Math 2, Math 3, and Precalculus. Our app adjusts questions based on the users performance, has a leveling system, and has a chatgpt powered chatbot to assist struggling users.
+The **RevoTEACH App** is an educational application that is designed to teach students various subjects such as Math 1, Math 2, Math 3, and Precalculus. Our app adjusts questions based on the users performance, has a leveling system, and has a chatGPT powered chatbot to assist struggling users.
 
 ---
 
@@ -12,7 +12,7 @@ The **RevoTEACH App** is an educational application that is designed to teach st
 - **Dynamic Question Loading**: Questions adjust based on the selected subject and difficulty level.
 - **Leveling System**: Users level up every 5 correct answers, encouraging continued progress.
 - **Navigation**: Allows users to switch between subjects (Math 1, Math 2, Math 3, Precalculus).
-- **Chatbot**: Built-in chatgpt powered chatbot providing struggling users with assistance.
+- **Chatbot**: Built-in chatGPT powered chatbot providing struggling users with assistance.
 
 ---
 
