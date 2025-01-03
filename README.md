@@ -39,12 +39,6 @@ The **RevoTEACH App** is an educational application that is designed to teach st
 
 ---
 
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
 ## Contact
 
 For feedback or questions, feel free to reach out via [ertugrul.findik1@gmail.com](mailto:ertugrul.findik1@gmail.com).
